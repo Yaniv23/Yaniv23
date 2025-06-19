@@ -14,17 +14,6 @@
 
 ---
 
-## 🛠️ Projects & Contributions
-
-Here are a few highlights I'm proud of:
-
-* 🚗 **Gesture-Controlled Robot Car** – Ongoing project combining Mecanum wheels, Arduino, and ESP32 with MediaPipe hand detection.
-* 📁 I document and share my projects so others can learn and build on them too!
-
-Check out my pinned repositories to learn more.
-
----
-
 ## 🤝 Let's Connect or Collaborate!
 
 * 🚀 Open to **collaborations**, **student jobs**, or just sharing knowledge.
